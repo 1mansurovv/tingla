@@ -347,17 +347,22 @@ body {
     margin-bottom: 11px;
   }
   .four_left p {
-  font-size: 16px;
-  line-height: 24px;
-  margin-bottom: 36px;
-}
-.four_right {
-  margin-top: 0px;
-  width: 100%;
-
-}
-.four_right img{
-width: 100%;
-height: auto;
-}
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 36px;
+  }
+  .four_right {
+    margin-top: 0px;
+    width: 100%;
+  }
+  .four_right img {
+    width: 100%;
+    height: auto;
+  }
+  .sec_five{
+    display: none;
+  }
+  .footer{
+    display: none;
+  }
 }
